@@ -1,3 +1,9 @@
+import Hero from "./Hero"
+
 export default function Main() {
-  return <div></div>
+  return (
+    <main>
+      <Hero></Hero>
+    </main>
+  )
 }
